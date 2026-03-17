@@ -1,47 +1,41 @@
-# Hi there, I'm Camila Santos! 👋
+# Hi there, I'm Camila! 👋
 
-## About Me
+### 🚀 QA Analyst | Test Automation Enthusiast | Systems Analysis Student
 
-I am a dedicated **QA Analyst** with a robust background in ensuring the **reliability, robustness, and security** of critical systems. My expertise spans **test automation, comprehensive data validation, and meticulous manual testing**. I thrive in environments that demand high traceability, impeccable data quality, and strict regulatory compliance, guiding projects through the entire testing lifecycle from initial planning to final execution.
+I'm a QA professional who loves breaking things (so they don't break in production! 😅). With a background in **Biomedicine** and now diving deep into **Systems Analysis**, I bring a unique perspective to software quality—combining scientific precision with tech-savvy automation.
 
-My focus is consistently on **preventing failures and mitigating production risks**, particularly in complex scenarios involving API validation, critical workflows, and sensitive data. I am passionate about aligning technical quality with overarching product objectives and am continuously expanding my knowledge in development and quality assurance to foster a deeper, end-to-end understanding of systems. This enables me to conduct more profound analyses and collaborate effectively with engineering and product teams.
+---
 
-## My Expertise
+### 🛠️ My Tech Stack
 
-| Category               | Skills                                                                                                |
-| :--------------------- | :---------------------------------------------------------------------------------------------------- |
-| **Test Automation**    | Playwright (API & Web), Robot Framework, Selenium                                                     |
-| **Programming**        | Python, JavaScript, TypeScript                                                                        |
-| **API & Integration**  | Postman, Swagger, REST API Testing                                                                    |
-| **Software Quality**   | Manual Testing, Test Scenario & Plans Development, Requirements Analysis, SDLC, Shift-Left Testing, Agile Methodologies |
-| **Version Control/CI/CD** | Git, GitHub, GitHub Actions, CI Pipelines for Automated Testing                                       |
-| **Database & Data**    | SQL (PostgreSQL, Oracle)                                                                              |
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Professional Experience
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### QA Analyst @ BIP Brasil (Sep 2024 – Present)
+---
 
-In my current role at BIP Brasil, I lead **large-scale data validation** initiatives using Databricks and relational databases. I am responsible for performing **API testing via Postman** to ensure stringent regulatory compliance, specifically working with Resolution 4966 and IFRS 9 standards. My technical contributions include developing **test automation scripts with Python and Pandas** and implementing **end-to-end test automation using Playwright**, often building projects from the ground up. I collaborate closely with various business areas to balance priorities and ensure high-quality deliverables.
+### ⚡ Quick Facts
 
-### Software Test Analyst @ Philips (Jun 2022 – Sep 2024)
+- 🔭 Currently ensuring quality at **BIP Brasil** with Databricks & Playwright.
+- 🌱 Learning more about **CI/CD pipelines** and **Cloud Testing**.
+- 🎓 Studying **Systems Analysis and Development** at IFSC.
+- 🧪 Fun fact: I used to be a **Biomedical Scientist** before catching the "coding bug"! 🦠➡️💻
 
-During my tenure at Philips, I focused on **integration testing** involving Postman, HL7, and JSON standards. I developed comprehensive **test automation using Robot Framework and Playwright (TypeScript)**, applying **BDD practices and design patterns** to enhance automation efficiency. My work also involved **manual testing with a shift-left quality focus**, ensuring that quality was integrated early in the development process. I operated within agile teams and performed extensive **database validation** to maintain data integrity.
+---
 
-### Software Test Intern @ Philips (Jan 2022 – Jun 2022)
+### 📫 Let's Connect!
 
-As an intern, I monitored and executed manual tests under the supervision of senior analysts, gaining foundational experience in **integration testing** for APIs and clinical data in the HL7 standard. I actively participated in agile ceremonies and test planning, which provided me with a solid understanding of the software development lifecycle. This period marked my initial steps into **test automation using Robot Framework** and involved significant work in evidence documentation, bug tracking, and task management within Azure DevOps.
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/camila-dos-santos)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camila1603.santos@gmail.com)
 
-## Education
+---
 
-| Degree | Institution | Period |
-| :--- | :--- | :--- |
-| **Bachelor's Degree in Systems Analysis and Development** | Federal Institute of Santa Catarina (IFSC) | Jan 2022 – Present |
-| **Specialization in Hematology** | Faculdades Pequeno Príncipe | 2018 – 2020 |
-| **Bachelor's Degree in Biomedicine** | Regional University of Blumenau (FURB) | 2013 – 2017 |
-
-## Let's Connect!
-
-I am always open to discussing new opportunities, collaborating on projects, or simply connecting with fellow professionals in the QA and development space.
-
-*   **Email**: [camila1603.santos@gmail.com](mailto:camila1603.santos@gmail.com)
-*   **LinkedIn**: [Camila dos Santos](https://linkedin.com/in/camila-dos-santos)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=camila1603-santos&show_icons=true&theme=radical" alt="Camila's GitHub Stats" />
+</p>

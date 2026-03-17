@@ -22,8 +22,8 @@ I'm a QA professional who loves breaking things (so they don't break in producti
 
 ### ⚡ Quick Facts
 
-- 🔭 Currently ensuring quality at **BIP Brasil** with Databricks & Playwright.
-- 🌱 Learning more about **CI/CD pipelines** and **Cloud Testing**.
+- 🔭 Currently ensuring quality and high-standard testing for **large-scale financial institutions** at **BIP Brasil**.
+- 🌱 Learning more every day about **AI-driven solutions**, advanced **automation**, and **web development**.
 - 🎓 Studying **Systems Analysis and Development** at IFSC.
 - 🧪 Fun fact: I used to be a **Biomedical Scientist** before catching the "coding bug"! 🦠➡️💻
 

@@ -2,7 +2,7 @@
 
 ### 🚀 QA Analyst | Test Automation | Systems Analysis Student
 
-I'm a QA professional who loves breaking things (so they don't break in production! 😅). With a background in **Biomedicine** and now diving deep into **Systems Analysis**, I bring a unique perspective to software quality—combining scientific precision with tech-savvy automation.
+I'm a QA professional who loves breaking things (so they don't break in production! 😅). With a background in **Biomedicine** and now diving deep into **Systems Analysis**, I bring a unique perspective to software quality, combining scientific precision with tech-savvy automation.
 
 ---
 
